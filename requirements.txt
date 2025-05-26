@@ -1,0 +1,7 @@
+torch-ema
+torchmetrics[audio]
+einops
+tqdm
+numpy
+librosa
+soundfile
