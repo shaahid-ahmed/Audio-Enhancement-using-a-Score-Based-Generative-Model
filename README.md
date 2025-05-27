@@ -1,5 +1,9 @@
 # Audio-Enhancement-using-a-Score-Based-Generative-Model
 
+
+This project is a collaboration between me (@shaahid-ahmed) and my friend Alan Jacob Anil (@lilnewbie).
+
+
 This repository contains the implementation of a deep learning model for audio enhancement using Score-Based Generative Models (SBGMs). The model restores high-quality audio by effectively removing background noise and distortions from degraded input signals. Built on Stochastic Differential Equations (SDEs) and a U-Net architecture, the approach leverages diffusion processes for robust and efficient audio denoising.
 
 **Features:**
